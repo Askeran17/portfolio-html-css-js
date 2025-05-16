@@ -24,6 +24,6 @@ Below is a simplified wireframe representation of the layout:
 
 ## 📩 Contact Me
 Feel free to reach out via:
-- **Email:** [byzantium1988@google.com]
-- **GitHub:** [github.com/Askeran17]
+- **Email:** [byzantium1988@gmail.com]
+- **GitHub:** [(https://github.com/Askeran17)]
 
